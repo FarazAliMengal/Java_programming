@@ -1,5 +1,5 @@
 import java.util.*;
-class cpm
+class cpn
 {
 	public static void main(String args[])
 	{
